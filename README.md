@@ -1,4 +1,4 @@
-# RSD Bootcamp API // https://gist.github.com/d3044afc90efaf84b7b3
+# RSD Bootcamp API
 
 The RSD Bootcamp API is a lightweight, self-hosted PHP script that pulls all of the RSD live event data and neatly organizes it into a JSON object. The script is capable of returning the full event data as well as filtered data categorized by city, state and country. 
 
