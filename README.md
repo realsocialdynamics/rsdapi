@@ -13,7 +13,7 @@ A sample AJAX POST request using jQuery is shown below:
 ~~~
 $.ajax({
   type: 'POST',
-	url: 'http://hypreed.com/sandbox/scrape.php',
+	url: 'http://example.com/path/to/pull.php',
 	data: { city: city, country: country },
 	dataType: 'json',
 		success: function(res){
